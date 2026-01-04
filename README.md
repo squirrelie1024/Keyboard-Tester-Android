@@ -1,7 +1,7 @@
 # Keyboard Tester for Android
 This app lets you test your keyboard and check it's working or not.
 # Installation
-Comming Soon
+Coming Soon
 # How to use
-Just type something...
+Just type something on your keyboard. It not showing press Test and type on your keyboard
 # 

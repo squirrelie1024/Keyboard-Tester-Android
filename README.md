@@ -1,5 +1,5 @@
 # Keyboard Tester for Android
-A simple app to test your physical or virtual keyboard and check it's working or not.
+A simple, lightweight application to verify the functionality of both physical and virtual keyboards on Android devices.
 # Installation
 Coming Soon!
 # How to Use
